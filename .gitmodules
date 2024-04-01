@@ -1,9 +1,12 @@
 [submodule "Workshops-2022"]
 	path = Workshops-2022
-	url = https://github.com/Nitro-Language-Processing/Workshops-2022/tree/main
+	url = https://github.com/Nitro-Language-Processing/Workshops-2022
+	branch = main
 [submodule "Workshops-2023"]
 	path = Workshops-2023
-	url = https://github.com/Nitro-Language-Processing/Workshops-2023/tree/main
+	url = https://github.com/Nitro-Language-Processing/Workshops-2023
+	branch = main
 [submodule "Workshops-2024"]
 	path = Workshops-2024
-	url = https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main
+	url = https://github.com/Nitro-Language-Processing/Workshops-2024
+	branch = main
